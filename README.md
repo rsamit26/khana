@@ -1,2 +1,2 @@
 # khana
-Simple app for Restaurant 
+Simple app for Restaurant using React Native
